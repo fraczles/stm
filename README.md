@@ -5,6 +5,7 @@ The tools listed in this directory facilitate the generation of `documents.csv`
 
 # Workflow steps from scratch
 NOTE: There may be dependencies you may need to install to run these scripts. I'll work on a solution to this soon.
+
 1. Start in an empty directory
 2. Run: `git pull https://github.com/fraczles/stm .`
 3. Copy your corpus into the current directory, name it Initial Text Corpus (naming must be exact)
