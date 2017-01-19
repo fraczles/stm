@@ -24,6 +24,7 @@ NOTE: There may be dependencies you may need to install to run these scripts. I'
 # Adding new documents to the corpus
 
 Current approach is to:
+
 1. Manually convert any new document to plaintext (new1.pdf -> new.txt, new2.pdf -> new2.pdf)
 2. Add it to ./corpus/ `mv new.txt ./corpus/`
 3. Generate a new documents matrix, `python tdm.py`
